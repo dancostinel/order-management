@@ -1,0 +1,6 @@
+Order: id, customer_name, customer_email, billing_address, shipping_address, total
+Order Item: id, name, sku, price, quantity
+Item Option: id, name, value
+
+Order 1-N Order Item
+Order Item 1-n Item Option
